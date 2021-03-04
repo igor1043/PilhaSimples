@@ -1,6 +1,4 @@
-# PilhaSimples
 
-Programa em C ++ que insere 3 inteiros numa pilha.
 # Pilha Simples
 Programa em C ++ que insere 3 inteiros numa pilha.
 
