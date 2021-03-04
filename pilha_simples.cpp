@@ -3,6 +3,11 @@
 Programa em C++ que insere 3 inteiros numa pilha.
 
 */
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include<stack>
 #include<iostream>
 using namespace std;
